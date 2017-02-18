@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-git git@github.com:samf1981/React-Redux-Carousel.git carousel
+git clone git@github.com:samf1981/React-Redux-Carousel.git carousel
 cd carousel
 npm install
 npm start
